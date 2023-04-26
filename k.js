@@ -1,1 +1,3 @@
-var helo = "helasdasd"
+var helo = "helasdasd";
+
+var fuuu = "";
